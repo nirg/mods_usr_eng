@@ -1,0 +1,1 @@
+First build using ./build_tune.sh from command line, then look/run tune.py and/or lda.py
